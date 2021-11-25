@@ -11,7 +11,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/LuizAPJunior/nft-preview-card](https://github.com/LuizAPJunior/nft-preview-card)
+- Live Site URL: [https://luizapjunior.github.io/nft-preview-card/](https://luizapjunior.github.io/nft-preview-card/)
 
 ## My process
 
@@ -45,10 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to use svg files as icons and how to get better responsive page using
-max-width and unit sizes like em and rem.
-
-To see how you can add code snippets, see below:
+I learned how to use svg files as icons and how to get better on building responsive layouts using max-width and unit sizes like em and rem:
 
 
 ```css
